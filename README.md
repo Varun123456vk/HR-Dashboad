@@ -128,11 +128,6 @@ Steps:
 
 ---
 
-## 📌 Author
-
-**Varun Kumar**
-
----
 
 ## ⭐ Project Value
 
